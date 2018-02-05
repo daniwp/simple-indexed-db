@@ -23,5 +23,4 @@ write:: key:: value (Writes a value to the database with the given key)
 read:: key (Reads a value from the database with the given key and logs out the value in the console)
 
 
-\n
-HINT: Try shutting down the server, starting it again and the retrieve previously written key-values :)
+HINT. Try shutting down the server, starting it again and the retrieve previously written key-values :)
